@@ -29,7 +29,7 @@ Open `index.html` in your browser to run the game locally.
 
 ## Project Structure
 
-- maze
+- maze/
   - index.html # Loads Matter.js and the game script
   - main.js # Contains maze generation and gameplay logic
 
