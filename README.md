@@ -1,3 +1,5 @@
+<img width="300" height="147" alt="image" src="https://github.com/user-attachments/assets/86bf5d66-afa2-4501-a4ce-c05c2137cbbf" />
+
 # Maze
 
 A procedurally generated maze game built with [Matter.js](https://brm.io/matter-js/), a 2D physics engine for the web. Navigate a ball through the maze using your keyboard to reach the goal.
