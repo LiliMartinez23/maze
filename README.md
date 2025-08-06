@@ -1,4 +1,5 @@
-<img width="300" height="147" alt="image" src="https://github.com/user-attachments/assets/86bf5d66-afa2-4501-a4ce-c05c2137cbbf" />
+<img width="300" height="147" alt="image" src="https://github.com/user-attachments/assets/86bf5d66-afa2-4501-a4ce-c05c2137cbbf" /> <img width="300" height="147" alt="image" src="https://github.com/user-attachments/assets/341e89b3-099d-4f88-bda5-63838836455a" />
+
 
 # Maze
 
