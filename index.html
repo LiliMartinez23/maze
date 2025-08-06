@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Maze</title>
-    <!-- Generate Maze -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.20.0/matter.min.js"></script>
-</head>
-<body>
-    <a href="minigame/mini-game.html">Play Mini Game</a>
+<html>
+  <head>
+    <link rel="stylesheet" href="app.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.14.2/matter.min.js"></script>
+  </head>
+  <body>
+    <div class="winner hidden">
+      <h1>YOU WIN!</h1>
+      <button class="restart" id="restart">Play Again</button>
+    </div>
 
     <script src="main.js"></script>
-</body>
+  </body>
 </html>
