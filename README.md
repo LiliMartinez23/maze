@@ -9,7 +9,7 @@ A procedurally generated maze game built with [Matter.js](https://brm.io/matter-
 
 ## Demo
 
-Open `index.html` in your browser to run the game locally.
+https://lilimartinez23.github.io/maze/
 
 ## Features
 
